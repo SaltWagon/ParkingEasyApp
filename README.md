@@ -2,7 +2,8 @@
 An Android and iOS app for checking avaliable HDB carpark lots\
 Made using Expo
 
-## Done By
+## Done By SaltWagon
+Team Members:
 - [Titus](https://github.com/titim789)
 - [Yan Shiun](https://github.com/ys-c)
 - [Wei Xiang](https://github.com/HubDish)
