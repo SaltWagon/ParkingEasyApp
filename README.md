@@ -2,6 +2,13 @@
 An Android and iOS app for checking avaliable HDB carpark lots\
 Made using Expo
 
+# Prerequisite
+- [Expo-cli](https://docs.expo.dev/workflow/expo-cli/)
+- [Google Maps API Key](https://developers.google.com/maps)
+```
+Use npm install to install the necessary modules
+```
+
 ## Done By SaltWagon
 Team Members:
 - [Titus](https://github.com/titim789)
